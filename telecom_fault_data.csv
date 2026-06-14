@@ -1,0 +1,21 @@
+fault_id,date,region,site_id,technology,fault_type,severity,downtime_minutes,affected_users,resolution_status
+F001,2026-01-03,Kathmandu,KTM-001,4G,Power Failure,High,145,3200,Resolved
+F002,2026-01-04,Lalitpur,LTP-004,4G,Backhaul Issue,Medium,80,1250,Resolved
+F003,2026-01-05,Bhaktapur,BKT-002,3G,Hardware Failure,High,210,1800,Resolved
+F004,2026-01-06,Pokhara,PKR-007,4G,Transmission Issue,Medium,95,1500,Resolved
+F005,2026-01-07,Butwal,BTW-003,2G,Power Failure,Low,45,500,Resolved
+F006,2026-01-08,Biratnagar,BRT-011,4G,Software Alarm,Low,35,750,Resolved
+F007,2026-01-09,Kathmandu,KTM-003,5G,Backhaul Issue,High,160,4200,Resolved
+F008,2026-01-10,Kathmandu,KTM-001,4G,Power Failure,High,130,3000,Resolved
+F009,2026-01-11,Chitwan,CTW-005,4G,Antenna Misalignment,Medium,70,1100,Resolved
+F010,2026-01-12,Pokhara,PKR-002,3G,Hardware Failure,High,185,1700,Resolved
+F011,2026-01-13,Lalitpur,LTP-004,4G,Backhaul Issue,Medium,75,1200,Resolved
+F012,2026-01-14,Dharan,DHR-006,2G,Power Failure,Low,40,450,Resolved
+F013,2026-01-15,Biratnagar,BRT-011,4G,Software Alarm,Low,30,600,Resolved
+F014,2026-01-16,Kathmandu,KTM-009,5G,Transmission Issue,High,150,3900,Pending
+F015,2026-01-17,Butwal,BTW-008,4G,Backhaul Issue,Medium,90,1400,Resolved
+F016,2026-01-18,Bhaktapur,BKT-002,3G,Hardware Failure,High,200,1750,Resolved
+F017,2026-01-19,Chitwan,CTW-005,4G,Antenna Misalignment,Medium,65,1050,Resolved
+F018,2026-01-20,Kathmandu,KTM-003,5G,Power Failure,High,170,4300,Resolved
+F019,2026-01-21,Pokhara,PKR-007,4G,Transmission Issue,Medium,100,1600,Resolved
+F020,2026-01-22,Dharan,DHR-006,2G,Power Failure,Low,50,520,Resolved
